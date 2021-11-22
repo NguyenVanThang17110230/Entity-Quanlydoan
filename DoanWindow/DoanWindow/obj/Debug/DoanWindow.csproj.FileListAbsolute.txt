@@ -1,0 +1,77 @@
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe.config
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.pdb
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.exe
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.pdb
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe.config
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.pdb
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csprojAssemblyReference.cache
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Properties.Resources.resources
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.GenerateResource.cache
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.CoreCompileInputs.cache
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.exe
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.pdb
+D:\(4) GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmDeTai.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmDeTai.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmGiangVien.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmSinhVien.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmLogin.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmMain.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmBaoCao.resources
+C:\Users\Admin\OneDrive\Máy tính\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmDiem.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe.config
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\DoanWindow.pdb
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmBaoCao.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmDeTai.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Properties.Resources.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmDiem.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmGiangVien.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmLogin.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmSinhVien.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmMain.resources
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.CopyComplete
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.exe
+C:\Users\nguye\Documents\GitHub\DoAnWindow\DoanWindow\DoanWindow\obj\Debug\DoanWindow.pdb
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmBaoCao.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmDeTai.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Properties.Resources.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmDiem.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmGiangVien.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmLogin.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.frmSinhVien.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmMain.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.exe
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.pdb
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe.config
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\bin\Debug\DoanWindow.exe
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\bin\Debug\DoanWindow.pdb
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.csproj.CopyComplete
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmChamDiem.resources
+C:\Users\nguye\Documents\Winform\DoanWindow\DoanWindow\obj\Debug\DoanWindow.Views.frmHoiDong.resources
